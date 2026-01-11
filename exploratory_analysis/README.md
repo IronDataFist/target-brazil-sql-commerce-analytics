@@ -44,7 +44,7 @@
 * Geolocation table contains 1M+ records with many-to-many mappings.
 * It should be treated as an enrichment table, not joined directly to fact tables without aggregation.
 
-8. IMPORTANT: KEY TABLE LIMITATION
+## 8. IMPORTANT: KEY TABLE LIMITATION
 * No repeat customers → customer-level lifetime analysis not possible.
 * Delivery metrics apply only to delivered orders.
 * Fan-out joins present in payments and order items require careful aggregation.
