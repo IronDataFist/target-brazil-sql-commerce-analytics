@@ -44,6 +44,7 @@
 - Weekdays: **76,597 orders** (136/day across 565 days)  
 - Weekends: **22,847 orders** (101/day across 226 days)
 - **25% weekend reduction** = Manageable demand consistency
+
 **Operational Impact**: Rotational staffing optimized for Afternoon peaks (38K orders), minimal weekend adjustments required.
 
 ## 5. TOP CONTRIBUTING MONTHS & EVENT SPIKES
