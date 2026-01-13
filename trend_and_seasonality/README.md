@@ -27,6 +27,7 @@
 * Order analysis shows that 2018 significantly outperformed 2017, with consistently higher order volumes across most months.
 * Ordering patterns in 2018 display greater consistency with fewer sharp declines.
 * Increased order volumes suggest a rise in customer trust and brand credibility.
+
 **Strategic Value**: Consistent patterns support inventory optimization despite single-purchase customer base.
 
 ## 4. TIME-OF-DAY & WEEKDAY PATTERNS
