@@ -25,7 +25,6 @@
 | **2017**  | Jan 5 - Dec 31 | **45,101** | **45.4%**  | +13,613%   |
 | **2016**  | Sep 4 - Dec 23 | **329**    | **0.3%**   |     -      |
 | **Total** |                | **99,441** | **100%**   |            |
-
 **Key Finding**: 2018 captured **>50% of total volume** despite 9-month coverage, signaling rapid e-commerce acceleration.
 
 ## 3. MONTHLY SEASONALITY PATTERNS
@@ -37,14 +36,12 @@
 
 ## 4. TIME-OF-DAY & WEEKDAY PATTERNS
 **Afternoon dominates ordering** (38.4% of total volume), establishing clear operational peak:
--------------------------------------------
 | Time Period   | Orders     | % of Total | 
 |---------------|------------|------------|
 | **Afternoon** | **38,135** | **38.4%**  |
 | Night         |   28,331   |   28.5%    |
 | Morning       |   27,733   |   27.9%    |
 | **Dawn**      | **5,242**  | **5.3%**   |
--------------------------------------------
 **Weekday vs Weekend Stability**: 
 - Weekdays: **76,597 orders** (136/day across 565 days)  
 - Weekends: **22,847 orders** (101/day across 226 days)
@@ -57,10 +54,6 @@
 - National Context: R$2.1-2.2B Brazilian e-commerce record ($680M USD)
 - Business Impact: Elevated volume sustained 5 days (Nov 24-28)
 - Cyber Monday window: Confirmed extended event-driven demand surge
-
-
-
-
 
 
 
