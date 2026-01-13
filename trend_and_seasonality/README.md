@@ -49,7 +49,8 @@
 
 ## 5. TOP CONTRIBUTING MONTHS & EVENT SPIKES
 **November 2017 dominated** with **7.59% of total orders** (7,543 orders), followed by 2018 Q1/Q2 at **7.31%** and **6.1%**
-**Event Analysis - Black Friday Impact**: 2017-11-24 (Black Friday): 1,176 orders;
+
+**Event Analysis: Black Friday Impact**: 2017-11-24: 1,176 orders;
 - National Context: R$2.1-2.2B Brazilian e-commerce record ($680M USD)
 - Business Impact: Elevated volume sustained 5 days (Nov 24-28)
 - Cyber Monday window: Confirmed extended event-driven demand surge
