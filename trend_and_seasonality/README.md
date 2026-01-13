@@ -18,14 +18,14 @@
 
 ## 2. YEARLY ORDER VOLUME TRENDS
 **Order volume demonstrated strong yearly growth** across the 3-year period (Sep 2016-Oct 2018):
----------------------------------------------------------------------
+
 | Year      | Date Range     | Orders     | % of Total | YoY Growth |
 |-----------|----------------|------------|------------|------------|
 | **2018**  | Jan 1 - Oct 17 | **54,011** | **54.3%**  | +19.8%     |
 | **2017**  | Jan 5 - Dec 31 | **45,101** | **45.4%**  | +13,613%   |
 | **2016**  | Sep 4 - Dec 23 | **329**    | **0.3%**   |     -      |
 | **Total** |                | **99,441** | **100%**   |            |
----------------------------------------------------------------------
+
 **Key Finding**: 2018 captured **>50% of total volume** despite 9-month coverage, signaling rapid e-commerce acceleration.
 
 ## 3. MONTHLY SEASONALITY PATTERNS
