@@ -8,7 +8,6 @@
 | `order_hour` | Hour of purchase (0-23) | Time-of-day analysis |
 | `order_weekday` | Day name (Monday-Sunday) | Weekday vs weekend comparison |
 | `time_of_day` | Dawn (00-06), Morning (07-12), Afternoon (13-18), Night (19-23) | Peak ordering period identification |
-       |                                                                 |                                     |
 
 
 ## 2. YEARLY ORDER VOLUME TRENDS
