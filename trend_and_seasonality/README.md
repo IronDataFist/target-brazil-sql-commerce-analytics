@@ -35,10 +35,10 @@
 
 | Time Period   | Orders     | % of Total | 
 |---------------|------------|------------|
-| **Afternoon** | **38,135** | **38.4%**  |
-| Night         |   28,331   |   28.5%    |
-| Morning       |   27,733   |   27.9%    |
-| **Dawn**      | **5,242**  | **5.3%**   |
+| **Afternoon** | **38,135** | **38.35%**  |
+| Night         |   28,331   |   28.49%    |
+| Morning       |   27,733   |   27.89%    |
+| **Dawn**      | **5,242**  | **5.27%**   |
 
 **Weekday vs Weekend Stability**: 
 - Weekdays: **76,597 orders** (136/day across 565 days)  
