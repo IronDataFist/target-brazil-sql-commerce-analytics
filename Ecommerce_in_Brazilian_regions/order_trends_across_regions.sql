@@ -3,13 +3,12 @@
   Analyzes **order volume trends**, **customer concentration**, and **revenue distribution** across 27 Brazilian states.
 
 ## Table of Contents
-- [1. Month-on-Month Orders](#31-month-on-month-orders)
-- [2. Customer Distribution](#32-customer-distribution)
-- [3. Orders & Revenue Distribution](#33-orders--revenue-distribution)
-- [Executive Summary](#executive-summary)
+- [1. Month-on-Month Orders]
+- [2. Customer Distribution]
+- [3. Orders & Revenue Distribution]
+
 
 ## 1 Month-on-Month Orders
-  
 ### Business Question
 **How do order volumes evolve month-over-month across states? Which states show growth vs stagnation?**
 
@@ -32,7 +31,6 @@ SELECT customer_state,
 FROM monthly_orders_by_state;
 
 ## 2 Customer Distribution & Concentration Risk
-  
 ### Business Question
 **Do a few states dominate the customer base?**
 
@@ -57,7 +55,6 @@ SELECT customer_state,
 FROM customer_count_by_state_pct;
 
 ## 3 Orders & Revenue Distribution
-  
 ### Business Question
 **Which states drive revenue? Are high-volume states also high-value?**
 
