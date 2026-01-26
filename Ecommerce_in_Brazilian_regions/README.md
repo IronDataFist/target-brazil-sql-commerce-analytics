@@ -55,13 +55,11 @@ Seasonal patterns: Holiday peaks (Nov-Dec), summer surges
 
 ### SUMMARY:
 
-BRAZIL E-COMMERCE INSIGHTS (2016-2018)
-┌─────────────────────────────────────────────┐
-│ SP: 42% orders but only 37% revenue (low AOV)
-│ TOP 3 = 67% CUSTOMERS, 62% REVENUE
-│ BA: Explosive growth + high AOV (R$161)
-│ PB: Tiny volume, massive AOV (R$234)
-└─────────────────────────────────────────────┘
+• SP → 42% of orders but only 37% of revenue → low AOV
+• Top 3 states → 67% of customers, 62% of revenue → high concentration risk
+• BA → strongest growth + high AOV → prime expansion target
+• PB → very low volume but highest AOV → premium niche opportunity
+
 
 
 
