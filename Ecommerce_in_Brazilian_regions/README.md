@@ -15,7 +15,9 @@ Dataset Coverage: 27 states × 21+ months (Oct 2016 - Aug 2018)
 
 **Critical Insights:**
 BA emerges as growth leader: 4 → 165 orders
+
 Smaller states highly volatile: 400%+ monthly swings common
+
 Seasonal patterns: Holiday peaks (Nov-Dec), summer surges
 
 ## 2. Customer Distribution & Concentration Risk
@@ -33,7 +35,9 @@ Seasonal patterns: Holiday peaks (Nov-Dec), summer surges
 
 **Pareto (80–20) Insight**
 ~80% of customers are concentrated in just 6 out of 27 states (~22%), strongly validating the Pareto Principle (80–20 rule).
+
 **HIGH RISK:** Top 3 states control 67% of customer base
+
 **Business Implication:** The business is over-reliant on a small geographical footprint, making regional diversification and market expansion critical for long-term growth stability.
 
 ## 3. Orders & Revenue Distribution
@@ -59,8 +63,11 @@ Seasonal patterns: Holiday peaks (Nov-Dec), summer surges
 ### SUMMARY:
 
 • SP → 42% of orders but only 37% of revenue → low AOV
+
 • Top 3 states → 67% of customers, 62% of revenue → high concentration risk
+
 • BA → strongest growth + high AOV → prime expansion target
+
 • PB → very low volume but highest AOV → premium niche opportunity
 
 
