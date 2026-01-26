@@ -1,5 +1,5 @@
 ### E-commerce Orders Evolution - Brazil (2016-2018)
-**Complete analysis of order trends, customer concentration, and revenue distribution across 27 Brazilian states using Olist dataset**
+**Complete analysis of order trends, customer concentration, and revenue distribution across 27 Brazilian states**
 
 ## 1. Month-on-Month Orders Analysis
 Dataset Coverage: 27 states × 21+ months (Oct 2016 - Aug 2018)
@@ -31,7 +31,10 @@ Seasonal patterns: Holiday peaks (Nov-Dec), summer surges
 | PR     | 5,045     | 5.07%   | 77%          |
 | Top 10 | 90,024    | 90.53%  | 90%          |
 
-**HIGH RISK: Top 3 states control 67% of customer base**
+**Pareto (80–20) Insight**
+~80% of customers are concentrated in just 6 out of 27 states (~22%), strongly validating the Pareto Principle (80–20 rule).
+**HIGH RISK:** Top 3 states control 67% of customer base
+**Business Implication:** The business is over-reliant on a small geographical footprint, making regional diversification and market expansion critical for long-term growth stability.
 
 ## 3. Orders & Revenue Distribution
 
