@@ -55,7 +55,8 @@ Revenue shows extreme YoY growth in early 2018 **(Jan: +705%, Feb: +240%)**, fol
 
 Order volume increased significantly across all months, driving the majority of revenue growth
 
-###Insight:
+### Insight:
+
 Early growth is largely driven by rapid increase in order volume, indicating a strong expansion phase.
 
 **AOV** declined during Jan–Apr (-11% to -3%), before recovering in later months **(peaking at +15% in July)**
