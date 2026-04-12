@@ -49,6 +49,21 @@ The consistent increase indicates strong expansion in e-commerce activity, sugge
 | 2018     | 8694733.84            | 19.93                   |
 
 
+## Monthly Revenue & AOV Trends (Jan-Aug YoY)
+
+Revenue shows extreme YoY growth in early 2018 **(Jan: +705%, Feb: +240%)**, followed by a steady decline in growth rate to **51%** by August 2018.
+
+Order volume increased significantly across all months, driving the majority of revenue growth
+
+###Insight:
+Early growth is largely driven by rapid increase in order volume, indicating a strong expansion phase.
+
+**AOV** declined during Jan–Apr (-11% to -3%), before recovering in later months **(peaking at +15% in July)**
+
+### Insight:
+Initial growth was volume-driven, but later months show signs of improving customer spend per order, indicating maturing demand.
+
+
 
 
 
