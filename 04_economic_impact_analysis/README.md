@@ -35,8 +35,18 @@ Freight cost increases significantly in low-density regions, highlighting logist
 | Value-Driven     | PB, PA, RO | 125–143     |Low frequency, high basket size  |
 
 
+## Year-over-Year Revenue Growth (Jan–Aug)
+Total order value increased from R$7.25M (2017) to **R$8.69M (2018 Jan–Aug)**
 
+This represents a **~19.9%** YoY growth
 
+### Insight:
+The consistent increase indicates strong expansion in e-commerce activity, suggesting rising customer adoption and transaction volume during this period.
+
+| **Year** | **Total Order Value** | **Percentage Increase** |
+|----------|-----------------------|-------------------------|
+| 2017     | 7249746.73            | *Null*                  |
+| 2018     | 8694733.84            | 19.93                   |
 
 
 
