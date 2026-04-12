@@ -55,3 +55,31 @@ SELECT year,
        total_order_value,
        ROUND(SAFE_DIVIDE((total_order_value - LAG(total_order_value) OVER (ORDER BY year ASC)), LAG(total_order_value) OVER (ORDER BY year ASC)) * 100, 2) AS pct_increase
 FROM yearly_cost;
+
+
+# 4.  Monthly Revenue Trend (2017-2018)(Jan–Aug)
+WITH month_over_table AS (
+SELECT EXTRACT(YEAR FROM o.order_purchase_timestamp) AS year,
+       EXTRACT(MONTH FROM o.order_purchase_timestamp) AS month,
+       COUNT(DISTINCT(o.order_id)) orders_count,
+       ROUND(SUM(p.payment_value), 2) AS total_order_value
+FROM `Target_Corporation.payments` p
+JOIN `Target_Corporation.orders` o
+ON p.order_id = o.order_id
+WHERE EXTRACT(YEAR FROM o.order_purchase_timestamp) IN (2017, 2018) AND
+      EXTRACT(MONTH FROM o.order_purchase_timestamp) BETWEEN 1 AND 8
+GROUP BY year, month),
+
+aov_table AS (
+SELECT *,
+       SAFE_DIVIDE(total_order_value, orders_count) AS avg_order_value
+FROM month_over_table)
+
+SELECT year,
+       month,
+       orders_count,
+       total_order_value,
+       ROUND(SAFE_DIVIDE((total_order_value - LAG(total_order_value) OVER (PARTITION BY month ORDER BY year ASC)), LAG(total_order_value) OVER (PARTITION BY month ORDER BY year ASC)) * 100, 2) AS yoy_revenue_growth_pct,
+       ROUND(avg_order_value, 2) AS avg_order_value,
+       ROUND(SAFE_DIVIDE((avg_order_value) - LAG(avg_order_value) OVER (PARTITION BY month ORDER BY year), LAG(avg_order_value) OVER (PARTITION BY month ORDER BY year)) * 100, 2) AS yoy_aov_growth_pct
+FROM aov_table;
