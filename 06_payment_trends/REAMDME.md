@@ -1,12 +1,10 @@
 ## 1. Payment Type Trends (MoM YoY)
 ### Strong Growth Across All Payment Types
-All payment methods show significant YoY growth in 2018 vs 2017 (Jan–Aug)
-
+All payment methods show significant YoY growth in 2018 vs 2017 (Jan–Aug).
 Growth is especially high in early months due to low 2017 base
 
 **Example:**
 Credit Card: **+890% (Jan)**, stabilizing to ~50–100% later
-
 UPI: **+683% (Jan)** → slows to ~24% by August
 
 Debit Card: extremely high growth (1000%+) due to very low base
@@ -43,11 +41,8 @@ Customers prefer single-payment transactions, indicating low friction for smalle
 
 **AOV increases with installments:**
 * 1 installment → ~120
-
 * 5 installments → ~183
-
 * 10 installments → ~416
-
 * 20+ installments → 600+
 
 **Insight:**
@@ -69,16 +64,12 @@ Installments are used as a financing tool for expensive purchases, not for regul
 
 ### Payment Type Contribution:
 * Credit card dominates: **~75%** of orders & **~78%** of revenue, Primary payment method, driving both volume and value.
-
 * UPI: ~19% orders, ~18% revenue, Second-largest contributor with balanced volume and spend.
-
 * Voucher & Debit Card: Low share (<5% each), Lower revenue contribution. Minor payment methods with limited impact on overall business.
 
 ### AOV Comparision:
 * Credit card → highest **(~164)**
-
 * UPI / Debit → moderate (~140–145)
-
 * Voucher → lowest (~98)
 
 **Insight**
