@@ -1,6 +1,7 @@
 ## 1. Payment Type Trends (MoM YoY)
 ### Strong Growth Across All Payment Types
 All payment methods show significant YoY growth in 2018 vs 2017 (Jan–Aug).
+
 Growth is especially high in early months due to low 2017 base
 
 **Example:**
