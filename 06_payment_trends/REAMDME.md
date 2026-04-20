@@ -26,7 +26,6 @@ Credit card is the primary payment method, indicating strong reliance on digital
 ### Growth Normalization Over Time
 Growth rates decline steadily from early 2018 to later months:
 * UPI: **683% → 24%**
-
 * Credit Card: **890% → ~54%**
 
 ### Slight Decline in Voucher Usage
