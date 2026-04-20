@@ -1,4 +1,4 @@
-# Customer Review Analysis:
+-- Customer Review Analysis:
 
 # 1. How does delivery delay impact review score?
 WITH order_delivery_duration_table AS (
